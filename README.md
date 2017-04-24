@@ -1,2 +1,2 @@
 
-This code does something. Hopefully useful... to someone. 
+This code does something hopefully useful to someone. 
